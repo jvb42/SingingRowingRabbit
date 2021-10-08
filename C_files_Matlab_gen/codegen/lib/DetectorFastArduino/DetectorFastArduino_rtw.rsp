@@ -1,0 +1,17 @@
+DetectorFastArduino_data.obj
+rt_nonfinite.obj
+rtGetNaN.obj
+rtGetInf.obj
+DetectorFastArduino_initialize.obj
+DetectorFastArduino_terminate.obj
+DetectorFastArduino.obj
+colon.obj
+conv.obj
+minOrMax.obj
+find.obj
+mean.obj
+polyfit.obj
+xnrm2.obj
+linsolve.obj
+fliplr.obj
+DetectorFastArduino_emxutil.obj
